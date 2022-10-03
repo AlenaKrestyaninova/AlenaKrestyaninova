@@ -1,8 +1,9 @@
-<h1 font-size="25px"> Hi there!</h1>
-<p> My name is Alena and I am a beginner frontend developer.</p>
+<h1 font-size="25px" align="center"> Hi there!</h1>
+<p align="center"> My name is Alena and I am a beginner frontend developer.</p>
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/LHZyixOnHwDDy/giphy.gif" width="150"/>
 </div>
+<p align="center"> You can contact me here</p>
 <div id="badges" align="center">
   <a href="https://t.me/AlenaAlenaPurPurPur">
     <img src="https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=white&style=for-the-badge" alt="Telegram Badge"/>
