@@ -6,7 +6,7 @@
 <p align="center"> You can contact me here</p>
 <div id="badges" align="center">
   <a href="https://t.me/AlenaAlenaPurPurPur">
-    <img src=нсhttps://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=white&style=for-the-badge" alt="Telegram Badge"/>
+    <img src="https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=white&style=for-the-badge" alt="Telegram Badge"/>
   </a>
   <a href="mailto:alen4k@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-red?logo=gmail&logoColor=white&style=for-the-badge" alt="Gmail Badge"/>
