@@ -1,5 +1,5 @@
-<h1> Hi there!</h1>
-<h2> My name is Alena and I am a beginner frontend developer.</h2>
+<h1 font-size="25px"> Hi there!</h1>
+<p> My name is Alena and I am a beginner frontend developer.</p>
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/LHZyixOnHwDDy/giphy.gif" width="150"/>
 </div>
