@@ -1,3 +1,5 @@
+[For Russian language please click here](https://github.com/AlenaKrestyaninova/AlenaKrestyaninova/blob/main/README_ru.md)
+
 <div align="center">
   <h1 font-size="18px"> Hi there!</h1>
   <p> My name is Alena and I am a beginner frontend developer.</p>
