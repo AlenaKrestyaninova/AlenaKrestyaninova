@@ -1,17 +1,20 @@
-<h1 font-size="18px" align="center"> Hi there!</h1>
-<p align="center"> My name is Alena and I am a beginner frontend developer.</p>
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/LHZyixOnHwDDy/giphy.gif" width="150"/>
+<div align="center">
+  <h1 font-size="18px"> Hi there!</h1>
+  <p> My name is Alena and I am a beginner frontend developer.</p>
+  <div id="header">
+    <img src="https://media.giphy.com/media/LHZyixOnHwDDy/giphy.gif" width="150"/>
+  </div>
+  <p> You can contact me here</p>
+  <div id="badges">
+    <a href="https://t.me/AlenaAlenaPurPurPur">
+      <img src="https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=white&style=for-the-badge" alt="Telegram Badge"/>
+    </a>
+    <a href="mailto:alen4k@gmail.com">
+      <img src="https://img.shields.io/badge/Gmail-red?logo=gmail&logoColor=white&style=for-the-badge" alt="Gmail Badge"/>
+    </a>
+  </div>
 </div>
-<p align="center"> You can contact me here</p>
-<div id="badges" align="center">
-  <a href="https://t.me/AlenaAlenaPurPurPur">
-    <img src="https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=white&style=for-the-badge" alt="Telegram Badge"/>
-  </a>
-  <a href="mailto:alen4k@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-red?logo=gmail&logoColor=white&style=for-the-badge" alt="Gmail Badge"/>
-  </a>
-</div>
+
 <h3>About me:</h3>
 <ul>
   <li>Currently getting education at <a href="https://practicum.yandex.ru/">Yandex.Prakticum school</a>, Web development faculty</li>
