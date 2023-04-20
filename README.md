@@ -19,7 +19,7 @@
 
 <h3>About me:</h3>
 <ul>
-  <li>Currently getting education at <a href="https://practicum.yandex.ru/">Yandex.Prakticum school</a>, Web development faculty</li>
+  <li>Recently finished education at <a href="https://practicum.yandex.ru/">Yandex.Prakticum school</a>, Web development faculty</li>
   <li>My technical stack: HTML5, CSS, Vanilla JS, React, React Router, Webpack</li>
   <li>Sincerelly interested in creative projects</li>
   <li>Looking for a job as a frontend developer</li>
