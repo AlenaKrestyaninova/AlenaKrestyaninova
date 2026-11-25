@@ -1,7 +1,7 @@
 [For English language please click here](https://github.com/AlenaKrestyaninova/AlenaKrestyaninova/blob/main/README.md)
 
 <div align="center">
-  <h1>Алёна Крестьянинова</h1>
+  <h1>Алёна Кузьмина</h1>
   <h3>Frontend Developer</h3>
   <p>Санкт-Петербург · React · TypeScript</p>
 
